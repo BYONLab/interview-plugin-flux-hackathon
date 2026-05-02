@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large binary files (except releases)
+# *.exe
+# *.zip
